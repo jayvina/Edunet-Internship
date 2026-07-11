@@ -110,3 +110,19 @@ print("\n" + "="*60)
 print("SUMMARY")
 print("="*60)
 
+"""
+1. Imported sustainability dataset using Pandas.
+2. Displayed dataset information and statistics.
+3. Checked missing values.
+4. Filled numerical null values using Median.
+5. Filled categorical null values using Mode.
+6. Performed basic analysis.
+7. Studied relationships between columns.
+8. Generated correlation matrix.
+9. Applied several Pandas functions:
+   head(), tail(), info(), describe(), shape,
+   columns, isnull(), fillna(), sort_values(),
+   mean(), max(), min(), corr().
+10. Dataset analysis completed successfully.
+"""
+
