@@ -1,2 +1,2 @@
-# Gtu-Summer-Internship
+# Edunet-Internship
 Green Skills Assignments 
